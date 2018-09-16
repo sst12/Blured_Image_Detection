@@ -7,7 +7,7 @@
           5. sklearn.model_selection
           6. sklearn.linear_model
   
-  # Informatin About Libraries
+  # Information About Libraries
     Numpy :- 
       Numeric python package provides basic rutetion for manupulating large arrys and metrisis of numeric data
     Matplotlib:- 
